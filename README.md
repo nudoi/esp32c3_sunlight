@@ -5,3 +5,4 @@ Seeed StudioのESP32C3とGrove - Sunlight Sensorで赤外線と可視光線お�
 - [https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/)
 - [https://wiki.seeedstudio.com/Grove-Sunlight_Sensor/](https://wiki.seeedstudio.com/Grove-Sunlight_Sensor/)
 
+PlatformIOを使用しています。
